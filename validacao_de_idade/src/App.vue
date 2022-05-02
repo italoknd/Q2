@@ -43,6 +43,7 @@ export default {
 
         setTimeout(() => {
           this.aviso = ''
+          this.idade = ''
           this.checarIdade = false
         }, 4000)
       } else {
@@ -52,6 +53,7 @@ export default {
 
         setTimeout(() => {
           this.aviso = ''
+          this.idade = ''
           this.checarIdade = false
         }, 4000)
       }
